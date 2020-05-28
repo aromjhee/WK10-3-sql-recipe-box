@@ -13,4 +13,4 @@
 
 SELECT id, name 
 FROM units_of_measure 
-ORDER BY name DESC;
+ORDER BY name;
